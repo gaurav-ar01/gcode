@@ -1,0 +1,96 @@
+.main{
+    background-image: url("Netflix India – Watch TV Shows Online, Watch Movies Online_files/IN-en-20240930-TRIFECTA-perspective_1e1ca6cd-9e2d-4e9d-9e4b-ba0c2d3a0e31_large.jpg");
+    height: 80vh;
+    position: relative;
+    background-position: center center;
+    background-size: 100vw;
+
+}
+*{
+    padding: 0%;
+    margin: 0%;
+   transform; font-family: &quot;Martel_Sans variant0&quot;, Tofu; font-weight: 400; font-style: normal; font-stretch: normal; font-optical-sizing: auto; opacity: 1; line-height: initial; transition-duration: 350ms;
+
+}
+.main .box{
+    height: 80vh;
+    width: 100%;
+    opacity: 0.64;
+    position: absolute;
+    top: 0;
+    background-color: black;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 25px;
+    max-width: 80vw;
+    margin: auto;
+}
+nav img{
+    color: red;
+    width: 100px;
+    position: relative;
+    z-index: 10;
+}
+nav button{
+    position: relative;
+    z-index: 10;
+}
+.hero{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: rgba(247, 252, 252, 0.937);
+    
+    
+}
+.hero :first-child{
+    font-weight: 2000;
+    font-size: 68px;
+    font-family: sans-serif;
+    gap: 23px;
+}
+h4{
+    font-weight: 900;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5{font-weight: 500;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.user{
+    background-color: black;
+    box-sizing: content-box;
+    color: transparent;
+    text-size-adjust: ;
+}
+
+.sepretion{
+        height: 7px;
+        background-color: blue;
+
+    }
+.btn{
+    padding: 3px 8px;
+    font-weight: bold;
+    background-color: white;
+    
+}
+.btn-red{background-color: red;
+    color: white;
+    padding: 3px 24px;
+    font-size: 20px;
+    border-radius: 4px;
+
+}
+
+
+
+
